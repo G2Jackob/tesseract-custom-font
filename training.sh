@@ -1,7 +1,7 @@
 cd tesstrain
 
 # Tesstrain will look for the ground truth in tesstrain/data/basename-ground-truth 
-MODEL_NAME=mc
+MODEL_NAME=mc2
 
 MAX_ITERATIONS=10000
 EPOCHS=1000

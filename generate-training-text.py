@@ -5,7 +5,7 @@ output_file = "data/training_text"
 alphabet = "abcdefghijklmnopqrstuvwxyz"
 
 # Replace with relevant characters
-chars = "1234567890/.,:[]()?!+-#"
+chars = "1234567890.,:=- "
 chars += alphabet
 chars += alphabet.upper()
 
